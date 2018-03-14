@@ -1,5 +1,5 @@
 <template>
-    <app-server-selector></app-server-selector>
+    <app-servers></app-servers>
 </template>
 
 <script>
